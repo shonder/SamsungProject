@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "688784896823",
+    "firebase_url": "https://snakedata-5821b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "snakedata-5821b",
+    "storage_bucket": "snakedata-5821b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688784896823:android:19a662b219928ccc1960b2",
+        "android_client_info": {
+          "package_name": "com.example.snake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuOcRnFWunW3nhGVciQOP0iKKPfRwdJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
